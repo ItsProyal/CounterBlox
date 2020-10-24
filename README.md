@@ -1,4 +1,5 @@
 # Counter Blox [Skin Changer]
+# This section is inactive, we have moved to Sapphire Hub
 ```diff
 - Current Version: 2.1
 - Last Update Date: 8/29/20 (12:49 PM EST)
